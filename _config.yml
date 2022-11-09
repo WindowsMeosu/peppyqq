@@ -3,5 +3,6 @@ author: github/osu/use-whatever-you-desire
 peppyqq:
 regeneration: true
 timezone: CET
+include: themeinfo/peppyqq.md
 theme: peppyqq
 
