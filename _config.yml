@@ -1,6 +1,7 @@
 title: Title
 author: github/osu/use-whatever-you-desire
 peppyqq:
-  date_format: "%b, %y"
+regeneration: true
+timezone: CET
 theme: peppyqq
 
