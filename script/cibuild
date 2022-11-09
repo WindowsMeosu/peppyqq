@@ -1,0 +1,15 @@
+#!/bin/sh
+
+set -e
+
+script/build
+
+if test -e "./_site/index.html";then
+  echo "Finished building..."
+  rm -Rf _site
+else
+  echo "Site didn't build... Well congratulations... the example site hates you (for legal reasons this is a joke)"
+  exit 1
+fi
+
+gem build peppyqq.gemspec
