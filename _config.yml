@@ -1,10 +1,6 @@
 title: Title
 author: github/osu/use-whatever-you-desire
 peppyqq:
-  date_format: "%b %-d, %y"
+  date_format: "%b, %y"
 theme: peppyqq
-# generate links:
-# links:
-# osu!: osu.ppy.sh/user/{id}
-# old!: old.ppy.sh/user/{id}
-# twitter: twitter.com/@{user}
+
