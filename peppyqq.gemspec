@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version  = "0.0.1"
   spec.authors  = ["MiloTilo"]
 
-  spec.summary  = "A beautiful, minimal theme for Jekyll."
+  spec.summary  = " a theme based off of jekyll's minima."
   spec.homepage = "https://github.com/windowsmeosu/peppyqq"
   spec.license  = "EPL-20"
 
