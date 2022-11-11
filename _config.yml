@@ -5,5 +5,5 @@ peppyqq:
 regeneration: true
 timezone: CET
 include: themeinfo/peppyqq.md
-ignore: /.VScode/*/**/*
+ignore: /vscode/*/**/*
 theme: peppyqq
